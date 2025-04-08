@@ -103,15 +103,6 @@ Cada uma dessas herda de `Personagem` e implementa seu próprio construtor e com
 
 ---
 
-## 📚 Como Estudar por Este Projeto
-
-1. **Comece pela classe `Personagem`**: entenda como a base do sistema funciona.
-2. **Analise cada subclasse** e veja como implementam comportamentos diferentes.
-3. **Estude `GerenciadorItens`** para entender encapsulamento e manipulação de vetores.
-4. **Observe o `main.cpp`** para ver o fluxo geral, chamadas de métodos e a lógica de controle do jogo.
-
----
-
 ## 🗂️ Arquivos do Projeto
 
 ├── main.cpp 
